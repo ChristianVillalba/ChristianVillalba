@@ -1,7 +1,7 @@
 
 ### Nice to meet you
 
-My name is Christian
+My name is Christian     
 If you are reading this, I am learning React,     
 but I am interested in more technologies:
 
