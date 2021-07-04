@@ -2,14 +2,22 @@
 ### Nice to meet you
 
 My name is Christian     
-If you are reading this, I am learning React,     
+As you can see, I already learnt some:
+* Python
+* Django
+* HTML & CSS
+* Bootstrap
+* JavaScript
+* jQuery
+ 
+I am learning React,     
 but I am interested in more technologies:
 
-* Wordpress
-* SASS
 * PHP
 * NodeJS
 * SQL & MongoDB (databases in general)
+* Wordpress
+* SASS
 
 I am currently looking for a job in the industry    
 any suggestion or feedback is welcome
