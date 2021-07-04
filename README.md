@@ -10,8 +10,10 @@ As you can see, I already learnt some:
 * JavaScript
 * jQuery
  
-I am learning React,     
-but I am interested in more technologies:
+And now, I am learning 
+* React     
+
+But I am interested in more technologies:
 
 * PHP
 * NodeJS
