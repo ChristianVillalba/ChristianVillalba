@@ -5,9 +5,10 @@ My name is Christian
 As you can see, I already learnt some:
 * Python
 * Django
-* HTML & CSS
-* Bootstrap
 * JavaScript
+* HTML 
+* CSS
+* Bootstrap
 * jQuery
  
 And now, I am learning 
