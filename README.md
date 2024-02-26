@@ -13,14 +13,9 @@ I already learnt some:
 * HTML 
 * CSS
 * Bootstrap   
-
-But I am interested in more technologies:
-
 * PHP
 * NodeJS
-* SQL & MongoDB (databases in general)
-* Wordpress
-* SASS
+* SQL & MongoDB 
 
 I love learning and improve my coding skills.    
 any suggestion or feedback is welcome
