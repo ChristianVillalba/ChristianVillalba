@@ -8,14 +8,18 @@ As you can see in my latest commits, I am learning
 I already learnt some:
 * Python
 * Django
-* JavaScript
-* ES6 & jQuery
 * HTML 
 * CSS
-* Bootstrap   
-* PHP
+* Bootstrap  
+* JavaScript
+* jQuery
 * NodeJS
-* SQL & MongoDB 
+* ExpressJS
+* NPM
+* SQL
+* MongoDB
+* PostgreSQL 
+* PHP
 
 I love learning and improve my coding skills.    
 any suggestion or feedback is welcome
