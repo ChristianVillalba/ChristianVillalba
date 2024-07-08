@@ -2,8 +2,7 @@
 ### Nice to meet you
 
 My name is Christian     
-As you can see in my latest commits, I am learning 
-* React   
+As you can see in my latest commits, I am learning Web Development
 
 I already learnt some:
 * Python
@@ -12,6 +11,7 @@ I already learnt some:
 * CSS
 * Bootstrap  
 * JavaScript
+* React   
 * jQuery
 * NodeJS
 * ExpressJS
