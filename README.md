@@ -1,6 +1,6 @@
 # Nice to meet you — I'm Christian Villalba
 
-As you can see in my latest commits, I’m learning **Web Development** and building real-world projects along the way.
+As you can see in my latest commits, I’m learning **Full-stack Web Development** 
 
 ## Technologies:
 - **Frontend**: HTML, CSS, Bootstrap, JavaScript, React, jQuery
@@ -11,7 +11,7 @@ As you can see in my latest commits, I’m learning **Web Development** and buil
 ## Learning Path:
 Coding Academy Back End (CSCA3B 2024/25) at Cardiff and Vale College (Level 3)     
 I’ve completed multiple coding bootcamps and courses on Udemy, including:
-- Python and Django Full Stack Web Developer Bootcamp
+- Python and Django Full Stack Web Developer Bootcamps
 - JavaScript and React Crash Courses
 - Front-End Development and Version Control training
 
